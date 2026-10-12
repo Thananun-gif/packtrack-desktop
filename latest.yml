@@ -1,0 +1,8 @@
+version: 1.0.8
+files:
+  - url: PackTrack-Setup.exe
+    sha512: CRGIdc6vB7KOSXyV5hhtp4+ZmM06my0dNIVDYloxwJTCF4HV8QasQ/P9wOi8teX1NFKe+2ry0PjR8KxQVMWWBA==
+    size: 82081573
+path: PackTrack-Setup.exe
+sha512: CRGIdc6vB7KOSXyV5hhtp4+ZmM06my0dNIVDYloxwJTCF4HV8QasQ/P9wOi8teX1NFKe+2ry0PjR8KxQVMWWBA==
+releaseDate: '2026-10-12T07:22:01.065Z'
